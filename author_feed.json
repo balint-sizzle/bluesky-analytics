@@ -1,0 +1,1132 @@
+{
+    "feed": [
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreig7veexlybgev7j6egs4k6ebr5arwhknivyxjm4enymwsd7oy6bha",
+                "indexed_at": "2025-02-24T15:31:36.650Z",
+                "record": {
+                    "created_at": "2025-02-24T15:31:34.002Z",
+                    "text": "👏🏻👏🏻👏🏻👏🏻",
+                    "embed": {
+                        "external": {
+                            "description": "He boasted that he was “taking DOGE to the next level.”",
+                            "title": "Musk Forms Dept. Of Underaged Clowns Harming Everything (DOUCHE)",
+                            "uri": "https://open.substack.com/pub/borowitzreport/p/musk-forms-dept-of-underaged-clowns?r=10g20c&utm_medium=ios",
+                            "thumb": {
+                                "mime_type": "image/jpeg",
+                                "size": 363255,
+                                "ref": {
+                                    "link": "bafkreic5zxcw5gghp2ygjg6xmomjjmrpjc6aqd47jd6ryxn4hdjdlpbb6i"
+                                },
+                                "py_type": "blob"
+                            },
+                            "py_type": "app.bsky.embed.external#external"
+                        },
+                        "py_type": "app.bsky.embed.external"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwo6keybk2d",
+                "embed": {
+                    "external": {
+                        "description": "He boasted that he was “taking DOGE to the next level.”",
+                        "title": "Musk Forms Dept. Of Underaged Clowns Harming Everything (DOUCHE)",
+                        "uri": "https://open.substack.com/pub/borowitzreport/p/musk-forms-dept-of-underaged-clowns?r=10g20c&utm_medium=ios",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreic5zxcw5gghp2ygjg6xmomjjmrpjc6aqd47jd6ryxn4hdjdlpbb6i@jpeg",
+                        "py_type": "app.bsky.embed.external#viewExternal"
+                    },
+                    "py_type": "app.bsky.embed.external#view"
+                },
+                "labels": [],
+                "like_count": 4368,
+                "quote_count": 45,
+                "reply_count": 52,
+                "repost_count": 602,
+                "threadgate": {
+                    "cid": "bafyreifeefgycmp2ovu3ouwqn3mv2erlict3dkyqvnhwelgi4jug4jqjam",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-24T15:31:34.614Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwo6keybk2d",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3liwo6keybk2d",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreiguipiryab2b3j7ghmhrkvdaem45l5mekbballijfphq6xxwin3hi",
+                "indexed_at": "2025-02-24T14:46:05.160Z",
+                "record": {
+                    "created_at": "2025-02-24T14:46:03.932Z",
+                    "text": "Gentle reminder of how to get rich. (Hint: *slowly*)",
+                    "embed": {
+                        "video": {
+                            "mime_type": "video/mp4",
+                            "size": 8908123,
+                            "ref": {
+                                "link": "bafkreiaub3xprrnyagn2jbh4d7opopxoncfijs22rclrhhbudxjxqgzrnq"
+                            },
+                            "py_type": "blob"
+                        },
+                        "alt": null,
+                        "aspect_ratio": {
+                            "height": 1920,
+                            "width": 1080,
+                            "py_type": "app.bsky.embed.defs#aspectRatio"
+                        },
+                        "captions": null,
+                        "py_type": "app.bsky.embed.video"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwln6rpfs2t",
+                "embed": {
+                    "cid": "bafkreiaub3xprrnyagn2jbh4d7opopxoncfijs22rclrhhbudxjxqgzrnq",
+                    "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreiaub3xprrnyagn2jbh4d7opopxoncfijs22rclrhhbudxjxqgzrnq/playlist.m3u8",
+                    "alt": null,
+                    "aspect_ratio": {
+                        "height": 1920,
+                        "width": 1080,
+                        "py_type": "app.bsky.embed.defs#aspectRatio"
+                    },
+                    "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreiaub3xprrnyagn2jbh4d7opopxoncfijs22rclrhhbudxjxqgzrnq/thumbnail.jpg",
+                    "py_type": "app.bsky.embed.video#view"
+                },
+                "labels": [],
+                "like_count": 947,
+                "quote_count": 15,
+                "reply_count": 32,
+                "repost_count": 80,
+                "threadgate": {
+                    "cid": "bafyreigacdmcuc63caq4z5yv3hhjd7uayyi5jefuaqmaxpy23m45f5yodq",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-24T14:46:03.934Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwln6rpfs2t",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3liwln6rpfs2t",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreiayrukckzcv4iiuzqmvu46uyt6hinssarxcuqg3hwq5juoodupx2y",
+                "indexed_at": "2025-02-24T14:32:23.652Z",
+                "record": {
+                    "created_at": "2025-02-24T14:32:22.802Z",
+                    "text": "Still off, but Ed Elson got to speak with the infinitely more interesting @downtownjoshbrown.bsky.social on Prof G Markets today. Josh is the co-founder and CEO of Ritholtz Wealth Management: open.spotify.com/episode/5Dlx...",
+                    "embed": {
+                        "external": {
+                            "description": "Prof G Markets · Episode",
+                            "title": "Is Breaking Up Intel The Right Move? + The New Gold Rush",
+                            "uri": "https://open.spotify.com/episode/5DlxuqkWGUorLl3LRQYdga?si=D0uid7TZQla1IXgfbhq4lg",
+                            "thumb": {
+                                "mime_type": "image/jpeg",
+                                "size": 232423,
+                                "ref": {
+                                    "link": "bafkreic2emnpcvy5fa3gt6o3jabv3pdch3mlqlnwgs7ho5r3w42zt7wxd4"
+                                },
+                                "py_type": "blob"
+                            },
+                            "py_type": "app.bsky.embed.external#external"
+                        },
+                        "py_type": "app.bsky.embed.external"
+                    },
+                    "entities": null,
+                    "facets": [
+                        {
+                            "features": [
+                                {
+                                    "did": "did:plc:brtkwi2kicxql63qsuwjjfwt",
+                                    "py_type": "app.bsky.richtext.facet#mention"
+                                }
+                            ],
+                            "index": {
+                                "byte_end": 104,
+                                "byte_start": 74,
+                                "py_type": "app.bsky.richtext.facet#byteSlice"
+                            },
+                            "py_type": "app.bsky.richtext.facet"
+                        },
+                        {
+                            "features": [
+                                {
+                                    "uri": "https://open.spotify.com/episode/5DlxuqkWGUorLl3LRQYdga?si=D0uid7TZQla1IXgfbhq4lg",
+                                    "py_type": "app.bsky.richtext.facet#link"
+                                }
+                            ],
+                            "index": {
+                                "byte_end": 224,
+                                "byte_start": 192,
+                                "py_type": "app.bsky.richtext.facet#byteSlice"
+                            },
+                            "py_type": "app.bsky.richtext.facet"
+                        }
+                    ],
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwkupovl22t",
+                "embed": {
+                    "external": {
+                        "description": "Prof G Markets · Episode",
+                        "title": "Is Breaking Up Intel The Right Move? + The New Gold Rush",
+                        "uri": "https://open.spotify.com/episode/5DlxuqkWGUorLl3LRQYdga?si=D0uid7TZQla1IXgfbhq4lg",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreic2emnpcvy5fa3gt6o3jabv3pdch3mlqlnwgs7ho5r3w42zt7wxd4@jpeg",
+                        "py_type": "app.bsky.embed.external#viewExternal"
+                    },
+                    "py_type": "app.bsky.embed.external#view"
+                },
+                "labels": [],
+                "like_count": 104,
+                "quote_count": 1,
+                "reply_count": 5,
+                "repost_count": 5,
+                "threadgate": {
+                    "cid": "bafyreibvpdosxg5em3ntwaiwrczh4pktxbw5i2cl5amzawfa5xuwjk2se4",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-24T14:32:23.387Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liwkupovl22t",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3liwkupovl22t",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreig76cb76fcptmw4dvedeqgewfa5symrebo6cvb4jorjcts2rjo3za",
+                "indexed_at": "2025-02-22T22:27:23.562Z",
+                "record": {
+                    "created_at": "2025-02-22T22:27:21.931Z",
+                    "text": "Great advice on helping someone who is grieving.",
+                    "embed": {
+                        "video": {
+                            "mime_type": "video/mp4",
+                            "size": 9034440,
+                            "ref": {
+                                "link": "bafkreifz4xlq4hh4oo6ii5ogwolzy5g2go47ocffmi3ntubrya5l7vtzem"
+                            },
+                            "py_type": "blob"
+                        },
+                        "alt": null,
+                        "aspect_ratio": {
+                            "height": 1280,
+                            "width": 720,
+                            "py_type": "app.bsky.embed.defs#aspectRatio"
+                        },
+                        "captions": null,
+                        "py_type": "app.bsky.embed.video"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lisei7nsac2y",
+                "embed": {
+                    "cid": "bafkreifz4xlq4hh4oo6ii5ogwolzy5g2go47ocffmi3ntubrya5l7vtzem",
+                    "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreifz4xlq4hh4oo6ii5ogwolzy5g2go47ocffmi3ntubrya5l7vtzem/playlist.m3u8",
+                    "alt": null,
+                    "aspect_ratio": {
+                        "height": 1280,
+                        "width": 720,
+                        "py_type": "app.bsky.embed.defs#aspectRatio"
+                    },
+                    "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreifz4xlq4hh4oo6ii5ogwolzy5g2go47ocffmi3ntubrya5l7vtzem/thumbnail.jpg",
+                    "py_type": "app.bsky.embed.video#view"
+                },
+                "labels": [],
+                "like_count": 2996,
+                "quote_count": 43,
+                "reply_count": 44,
+                "repost_count": 487,
+                "threadgate": {
+                    "cid": "bafyreibtwbtkmdybjhfvlfbjggp3t3guzr2ru75cunepzpyd3najrk4pyu",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-22T22:27:21.938Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lisei7nsac2y",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3lisei7nsac2y",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreiaup5jmwchjalm7mhdeke67wwkqa2bsibrtamdvxtt7ctodjxnj4y",
+                "indexed_at": "2025-02-22T15:38:46.254Z",
+                "record": {
+                    "created_at": "2025-02-22T15:38:44.476Z",
+                    "text": "Front page of today’s NY Post",
+                    "embed": {
+                        "images": [
+                            {
+                                "alt": "",
+                                "image": {
+                                    "mime_type": "image/jpeg",
+                                    "size": 267293,
+                                    "ref": {
+                                        "link": "bafkreifkpafhoxh7ixmprfw5ud3gf7a2aieuiyczb4poxffze6uyak6wri"
+                                    },
+                                    "py_type": "blob"
+                                },
+                                "aspect_ratio": {
+                                    "height": 635,
+                                    "width": 576,
+                                    "py_type": "app.bsky.embed.defs#aspectRatio"
+                                },
+                                "py_type": "app.bsky.embed.images#image"
+                            }
+                        ],
+                        "py_type": "app.bsky.embed.images"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirnnjyg4c2q",
+                "embed": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreifkpafhoxh7ixmprfw5ud3gf7a2aieuiyczb4poxffze6uyak6wri@jpeg",
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreifkpafhoxh7ixmprfw5ud3gf7a2aieuiyczb4poxffze6uyak6wri@jpeg",
+                            "aspect_ratio": {
+                                "height": 635,
+                                "width": 576,
+                                "py_type": "app.bsky.embed.defs#aspectRatio"
+                            },
+                            "py_type": "app.bsky.embed.images#viewImage"
+                        }
+                    ],
+                    "py_type": "app.bsky.embed.images#view"
+                },
+                "labels": [],
+                "like_count": 25269,
+                "quote_count": 216,
+                "reply_count": 150,
+                "repost_count": 3633,
+                "threadgate": {
+                    "cid": "bafyreifhqunupc3yk5nqobp35xx3trcykqjpcq7sf6mx7h6ursfw3ma6py",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-22T15:38:45.323Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirnnjyg4c2q",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3lirnnjyg4c2q",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreiglapgeqn2na4xdn7x3av52juoojescrh6263jfp3evgthplnozsq",
+                "indexed_at": "2025-02-22T15:08:47.557Z",
+                "record": {
+                    "created_at": "2025-02-22T15:08:41.046Z",
+                    "text": "",
+                    "embed": {
+                        "images": [
+                            {
+                                "alt": "",
+                                "image": {
+                                    "mime_type": "image/jpeg",
+                                    "size": 103470,
+                                    "ref": {
+                                        "link": "bafkreignfmwiafpirgydigvx6nw3dycitob2raz7vfae7lzntsudcqakfu"
+                                    },
+                                    "py_type": "blob"
+                                },
+                                "aspect_ratio": {
+                                    "height": 437,
+                                    "width": 393,
+                                    "py_type": "app.bsky.embed.defs#aspectRatio"
+                                },
+                                "py_type": "app.bsky.embed.images#image"
+                            }
+                        ],
+                        "py_type": "app.bsky.embed.images"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirlxs4ctk2i",
+                "embed": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreignfmwiafpirgydigvx6nw3dycitob2raz7vfae7lzntsudcqakfu@jpeg",
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreignfmwiafpirgydigvx6nw3dycitob2raz7vfae7lzntsudcqakfu@jpeg",
+                            "aspect_ratio": {
+                                "height": 437,
+                                "width": 393,
+                                "py_type": "app.bsky.embed.defs#aspectRatio"
+                            },
+                            "py_type": "app.bsky.embed.images#viewImage"
+                        }
+                    ],
+                    "py_type": "app.bsky.embed.images#view"
+                },
+                "labels": [],
+                "like_count": 60521,
+                "quote_count": 404,
+                "reply_count": 765,
+                "repost_count": 12580,
+                "threadgate": null,
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": null,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreibjnf4si7gslvgklp47xwjamcdghl2hb7leimlpnwdv7l435m7uui",
+                "indexed_at": "2025-02-22T14:43:34.553Z",
+                "record": {
+                    "created_at": "2025-02-22T14:43:31.646Z",
+                    "text": "0 to surrender: 28 days",
+                    "embed": null,
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirkksn5e225",
+                "embed": null,
+                "labels": [],
+                "like_count": 430,
+                "quote_count": 0,
+                "reply_count": 35,
+                "repost_count": 25,
+                "threadgate": {
+                    "cid": "bafyreic3phg6thdkycfwohp7kad3wjnsax2q76byt2mfr7vxlemwy2uyga",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-22T14:43:31.664Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirkksn5e225",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3lirkksn5e225",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreigsbfsqrh522kvvjqnv2nmgt4cj4bgunkzdnnlf4wpgiuvvaom5ci",
+                "indexed_at": "2025-02-22T14:35:42.657Z",
+                "record": {
+                    "created_at": "2025-02-22T14:35:41.832Z",
+                    "text": "The audio edition of this week’s No Mercy / No Malice, as read by @georgehahn.com : open.spotify.com/episode/1HMV...",
+                    "embed": {
+                        "external": {
+                            "description": "The Prof G Pod with Scott Galloway · Episode",
+                            "title": "No Mercy / No Malice: DOGE: What Can Be Done?",
+                            "uri": "https://open.spotify.com/episode/1HMVwfgBLDuyW8gneT9E0K?si=MJFEUK7ORo-BwXUQPi0qJA&context=spotify%3Ashow%3A5Ob5psTjoUtIGYxKUp2QVy",
+                            "thumb": {
+                                "mime_type": "image/jpeg",
+                                "size": 265495,
+                                "ref": {
+                                    "link": "bafkreidjoymjh54ogi2atcmzxcw7k62edrnhxlmtkm5nvjggidgwsi5734"
+                                },
+                                "py_type": "blob"
+                            },
+                            "py_type": "app.bsky.embed.external#external"
+                        },
+                        "py_type": "app.bsky.embed.external"
+                    },
+                    "entities": null,
+                    "facets": [
+                        {
+                            "features": [
+                                {
+                                    "did": "did:plc:3qptukurts456t6ug7me4o62",
+                                    "py_type": "app.bsky.richtext.facet#mention"
+                                }
+                            ],
+                            "index": {
+                                "byte_end": 83,
+                                "byte_start": 68,
+                                "py_type": "app.bsky.richtext.facet#byteSlice"
+                            },
+                            "py_type": "app.bsky.richtext.facet"
+                        },
+                        {
+                            "features": [
+                                {
+                                    "uri": "https://open.spotify.com/episode/1HMVwfgBLDuyW8gneT9E0K?si=MJFEUK7ORo-BwXUQPi0qJA&context=spotify%3Ashow%3A5Ob5psTjoUtIGYxKUp2QVy",
+                                    "py_type": "app.bsky.richtext.facet#link"
+                                }
+                            ],
+                            "index": {
+                                "byte_end": 118,
+                                "byte_start": 86,
+                                "py_type": "app.bsky.richtext.facet#byteSlice"
+                            },
+                            "py_type": "app.bsky.richtext.facet"
+                        }
+                    ],
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirk4slbtc2q",
+                "embed": {
+                    "external": {
+                        "description": "The Prof G Pod with Scott Galloway · Episode",
+                        "title": "No Mercy / No Malice: DOGE: What Can Be Done?",
+                        "uri": "https://open.spotify.com/episode/1HMVwfgBLDuyW8gneT9E0K?si=MJFEUK7ORo-BwXUQPi0qJA&context=spotify%3Ashow%3A5Ob5psTjoUtIGYxKUp2QVy",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidjoymjh54ogi2atcmzxcw7k62edrnhxlmtkm5nvjggidgwsi5734@jpeg",
+                        "py_type": "app.bsky.embed.external#viewExternal"
+                    },
+                    "py_type": "app.bsky.embed.external#view"
+                },
+                "labels": [],
+                "like_count": 173,
+                "quote_count": 3,
+                "reply_count": 8,
+                "repost_count": 40,
+                "threadgate": {
+                    "cid": "bafyreigaifsec7rmy63y53vxulfqht6x2uuqyl5uk5k6pmynlob3by7r6y",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-22T14:35:42.450Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lirk4slbtc2q",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3lirk4slbtc2q",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreifn5tabuoby7vmazpfg2rqkz2nwhgj5ffqtrkv4mkhsqquhi4z6wm",
+                "indexed_at": "2025-02-21T19:47:10.447Z",
+                "record": {
+                    "created_at": "2025-02-21T19:47:08.388Z",
+                    "text": "This week’s No Mercy / No Malice… DOGE: What Can Be Done? www.profgalloway.com/doge-what-ca...",
+                    "embed": {
+                        "external": {
+                            "description": "I’ve struggled my entire career to discern the difference between being right and being effective. A recent poll shows many moderates favor effective (move fast, break things) over right (checks and b...",
+                            "title": "DOGE: What Can Be Done? | No Mercy / No Malice",
+                            "uri": "https://www.profgalloway.com/doge-what-can-be-done/",
+                            "thumb": {
+                                "mime_type": "image/jpeg",
+                                "size": 193304,
+                                "ref": {
+                                    "link": "bafkreih4f2nqt7vpdt4meyazmo3uvp3hhea6mp2fuo3sw7w3fv5osh5tji"
+                                },
+                                "py_type": "blob"
+                            },
+                            "py_type": "app.bsky.embed.external#external"
+                        },
+                        "py_type": "app.bsky.embed.external"
+                    },
+                    "entities": null,
+                    "facets": [
+                        {
+                            "features": [
+                                {
+                                    "uri": "https://www.profgalloway.com/doge-what-can-be-done/",
+                                    "py_type": "app.bsky.richtext.facet#link"
+                                }
+                            ],
+                            "index": {
+                                "byte_end": 98,
+                                "byte_start": 62,
+                                "py_type": "app.bsky.richtext.facet#byteSlice"
+                            },
+                            "py_type": "app.bsky.richtext.facet"
+                        }
+                    ],
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lipl2ryzms26",
+                "embed": {
+                    "external": {
+                        "description": "I’ve struggled my entire career to discern the difference between being right and being effective. A recent poll shows many moderates favor effective (move fast, break things) over right (checks and b...",
+                        "title": "DOGE: What Can Be Done? | No Mercy / No Malice",
+                        "uri": "https://www.profgalloway.com/doge-what-can-be-done/",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreih4f2nqt7vpdt4meyazmo3uvp3hhea6mp2fuo3sw7w3fv5osh5tji@jpeg",
+                        "py_type": "app.bsky.embed.external#viewExternal"
+                    },
+                    "py_type": "app.bsky.embed.external#view"
+                },
+                "labels": [],
+                "like_count": 436,
+                "quote_count": 14,
+                "reply_count": 41,
+                "repost_count": 86,
+                "threadgate": {
+                    "cid": "bafyreigamuekoqoypc5cmlgb53vf6ujguc62apkfcobv44kzu7ivpgdudm",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-21T19:47:09.416Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3lipl2ryzms26",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3lipl2ryzms26",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": {
+                "by": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "indexed_at": "2025-02-22T06:18:36.752Z",
+                "py_type": "app.bsky.feed.defs#reasonRepost"
+            },
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        },
+        {
+            "post": {
+                "author": {
+                    "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+                    "handle": "profgalloway.com",
+                    "associated": null,
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5bl34y4m4zap3g6zg2wxpze/bafkreidrdwgbfb4x7am6onokdoe3grude7nsv6tynwezk2tiak6esysr7a@jpeg",
+                    "created_at": "2024-11-12T16:06:24.203Z",
+                    "display_name": "Scott Galloway",
+                    "labels": [],
+                    "viewer": {
+                        "blocked_by": false,
+                        "blocking": null,
+                        "blocking_by_list": null,
+                        "followed_by": null,
+                        "following": null,
+                        "known_followers": null,
+                        "muted": false,
+                        "muted_by_list": null,
+                        "py_type": "app.bsky.actor.defs#viewerState"
+                    },
+                    "py_type": "app.bsky.actor.defs#profileViewBasic"
+                },
+                "cid": "bafyreibiwz2546rqs7rqf5f3icgu2phxavok4ppi237chvqa7fewgrczpm",
+                "indexed_at": "2025-02-21T22:42:03.954Z",
+                "record": {
+                    "created_at": "2025-02-21T22:42:02.366Z",
+                    "text": "Found some peace in this.",
+                    "embed": {
+                        "video": {
+                            "mime_type": "video/mp4",
+                            "size": 5518980,
+                            "ref": {
+                                "link": "bafkreiac6somihnxvu54n5xj66iorzti2owuvwpwus4whzyn2hojmutckq"
+                            },
+                            "py_type": "blob"
+                        },
+                        "alt": null,
+                        "aspect_ratio": {
+                            "height": 1024,
+                            "width": 576,
+                            "py_type": "app.bsky.embed.defs#aspectRatio"
+                        },
+                        "captions": null,
+                        "py_type": "app.bsky.embed.video"
+                    },
+                    "entities": null,
+                    "facets": null,
+                    "labels": null,
+                    "langs": [
+                        "en"
+                    ],
+                    "reply": null,
+                    "tags": null,
+                    "py_type": "app.bsky.feed.post"
+                },
+                "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liputjts222v",
+                "embed": {
+                    "cid": "bafkreiac6somihnxvu54n5xj66iorzti2owuvwpwus4whzyn2hojmutckq",
+                    "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreiac6somihnxvu54n5xj66iorzti2owuvwpwus4whzyn2hojmutckq/playlist.m3u8",
+                    "alt": null,
+                    "aspect_ratio": {
+                        "height": 1024,
+                        "width": 576,
+                        "py_type": "app.bsky.embed.defs#aspectRatio"
+                    },
+                    "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ae5bl34y4m4zap3g6zg2wxpze/bafkreiac6somihnxvu54n5xj66iorzti2owuvwpwus4whzyn2hojmutckq/thumbnail.jpg",
+                    "py_type": "app.bsky.embed.video#view"
+                },
+                "labels": [],
+                "like_count": 5106,
+                "quote_count": 145,
+                "reply_count": 157,
+                "repost_count": 690,
+                "threadgate": {
+                    "cid": "bafyreids6fkay3my4cvptk3wjztqtygac4wilydjxnert3uhgofknyrwfi",
+                    "lists": [],
+                    "record": {
+                        "created_at": "2025-02-21T22:42:02.372Z",
+                        "post": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.post/3liputjts222v",
+                        "allow": [
+                            {
+                                "py_type": "app.bsky.feed.threadgate#followerRule"
+                            }
+                        ],
+                        "hidden_replies": [],
+                        "py_type": "app.bsky.feed.threadgate"
+                    },
+                    "uri": "at://did:plc:e5bl34y4m4zap3g6zg2wxpze/app.bsky.feed.threadgate/3liputjts222v",
+                    "py_type": "app.bsky.feed.defs#threadgateView"
+                },
+                "viewer": {
+                    "embedding_disabled": false,
+                    "like": null,
+                    "pinned": null,
+                    "reply_disabled": true,
+                    "repost": null,
+                    "thread_muted": false,
+                    "py_type": "app.bsky.feed.defs#viewerState"
+                },
+                "py_type": "app.bsky.feed.defs#postView"
+            },
+            "feed_context": null,
+            "reason": null,
+            "reply": null,
+            "py_type": "app.bsky.feed.defs#feedViewPost"
+        }
+    ],
+    "cursor": "2025-02-21T22:42:02.366Z"
+}
