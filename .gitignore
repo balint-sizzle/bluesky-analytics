@@ -84,5 +84,5 @@ yarn-error.log*
 # Misc
 .DS_Store
 Thumbs.db
-./endpoints.txt
-./testing.ipynb
+endpoints.txt
+testing.ipynb
