@@ -15,9 +15,7 @@ This project follows a modern microservices architecture:
 -   **Database**: PostgreSQL for data storage
 -   **Containerization**: Docker and Docker Compose for environment management
 
-![dashboard](https://i.ibb.co/mrd20BVP/Screenshot-2025-03-03-215845.png)
-![user analytics](https://ibb.co/vWZ5YZB"><img src="https://i.ibb.co/vWZ5YZB/image.png)
-![trending](https://i.ibb.co/MDSmLgM6/image.png)
+<a href="https://ibb.co/mrd20BVP"><img src="https://i.ibb.co/mrd20BVP/Screenshot-2025-03-03-215845.png" alt="Screenshot-2025-03-03-215845" border="0"></a>
 
 ## Directory Structure
 
