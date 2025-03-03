@@ -1,18 +1,18 @@
-# -version: "3.8"
+# version: "3.8"
 
 services:
     # PostgreSQL Database
-    postgres:
-        image: postgres:14
+    postgres-db:
+        image: postgres:17.4-alpine
         container_name: bluesky-analytics-db
         environment:
             POSTGRES_USER: postgres
-            POSTGRES_PASSWORD: password
-            POSTGRES_DB: bluesky_analytics
+            POSTGRES_PASSWORD: 1234
+            POSTGRES_DB: bluesky-analytics
         ports:
             - "5432:5432"
         volumes:
-            - postgres_data:/var/lib/postgresql/data
+            # - postgres_data:/var/lib/postgresql/data
             - ./init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
         restart: unless-stopped
 
@@ -20,20 +20,15 @@ services:
     backend:
         build:
             context: ./backend
-        container_name: bluesky-analytics-api
-        environment:
-            DB_HOST: postgres
-            DB_NAME: bluesky_analytics
-            DB_USER: postgres
-            DB_PASS: password
-            BLUESKY_USERNAME: ${BLUESKY_USERNAME}
-            BLUESKY_PASSWORD: ${BLUESKY_PASSWORD}
+        container_name: bluesky-analytics-backend
+        env_file:
+            - ./backend/.env
         ports:
             - "5000:5000"
         volumes:
             - ./backend:/app
         depends_on:
-            - postgres
+            - postgres-db
         restart: unless-stopped
 
     # React Frontend
@@ -46,11 +41,6 @@ services:
         volumes:
             - ./frontend:/app
             - /app/node_modules
-        environment:
-            REACT_APP_API_URL: http://localhost:5000/api
         depends_on:
             - backend
         restart: unless-stopped
-
-volumes:
-    postgres_data:
