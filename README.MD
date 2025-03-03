@@ -6,6 +6,9 @@ A analytics platform under continuous development for BlueSky social network dat
 
 BlueSky Analytics provides data visualization and analysis tools for BlueSky social network content. The application allows users to track trends, analyze user engagement, and gain insights from BlueSky posts and interactions.
 
+<img src="https://i.ibb.co/TDJ71TxN/Screenshot-2025-03-03-215845.png" alt="Screenshot-2025-03-03-215845" border="0">
+<img src="https://i.ibb.co/YSp9ZpW/image.png" alt="image" border="0">
+
 ## Architecture
 
 This project follows a modern microservices architecture:
@@ -14,8 +17,6 @@ This project follows a modern microservices architecture:
 -   **Backend**: Flask API server providing data endpoints
 -   **Database**: PostgreSQL for data storage
 -   **Containerization**: Docker and Docker Compose for environment management
-
-<img src="https://i.ibb.co/TDJ71TxN/Screenshot-2025-03-03-215845.png" alt="Screenshot-2025-03-03-215845" border="0">
 
 ## Directory Structure
 
