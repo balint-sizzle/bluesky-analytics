@@ -69,12 +69,13 @@ export default function Dashboard() {
                                             <div className="w-10 h-10 rounded-full bg-gray-200 mr-3"></div>
                                             <div>
                                                 <a
-                                                    className="font-semibold"
+                                                    className="font-semibold cursor-pointer hover:underline"
                                                     onClick={() =>
                                                         handleUserClick(
                                                             post.author
                                                         )
                                                     }
+                                                    href="#"
                                                 >
                                                     {post.author_display_name}
                                                 </a>
