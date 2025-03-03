@@ -1,0 +1,21 @@
+/* src/App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom styles below this line */
+body {
+  @apply bg-gray-50;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md p-6;
+}
+
+.btn {
+  @apply bg-bluesky-blue hover:bg-bluesky-dark text-white font-medium py-2 px-4 rounded;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px-4 rounded;
+}
