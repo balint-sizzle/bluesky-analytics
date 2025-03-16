@@ -5,12 +5,30 @@ import { Link, useNavigate } from "react-router-dom";
 
 export default function Dashboard() {
     const [recentPosts, setRecentPosts] = useState([]);
-    const [loading, setLoading] = useState(true);
+    const [hashtags, setHashtags] = useState([]);
+    const [postLoading, setPostLoading] = useState(true);
+    const [hashtagsLoading, setHashtagsLoading] = useState(true);
     const navigate = useNavigate();
 
     const handleUserClick = (username) => {
         navigate(`/user-analytics`, { state: { username: username } });
     };
+    useEffect(() => {
+        const fetchTrending = async () => {
+            try {
+                const response = await axios.get(
+                    `${API_BASE_URL}/trending?days=7`
+                );
+                setHashtags(response.data);
+                setHashtagsLoading(false);
+            } catch (error) {
+                console.error("Error fetching trending hashtags:", error);
+                setHashtagsLoading(false);
+            }
+        };
+
+        fetchTrending();
+    }, []);
 
     useEffect(() => {
         const fetchData = async () => {
@@ -19,10 +37,10 @@ export default function Dashboard() {
                     `${API_BASE_URL}/posts?limit=50`
                 );
                 setRecentPosts(response.data);
-                setLoading(false);
+                setPostLoading(false);
             } catch (error) {
                 console.error("Error fetching recent posts:", error);
-                setLoading(false);
+                setPostLoading(false);
             }
         };
 
@@ -31,20 +49,18 @@ export default function Dashboard() {
 
     return (
         <div className="container mx-auto p-4">
-            <h1 className="text-3xl font-bold mb-6">
-                Bluesky Analytics Dashboard
-            </h1>
+            <h1 className="text-3xl font-bold mb-6">Dashboard</h1>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="col-span-2">
                     <div className="bg-white rounded-lg shadow p-6">
                         <h2 className="text-xl font-semibold mb-4">
-                            Recent Posts
+                            Whats Hot? 🔥
                         </h2>
-                        {loading ? (
+                        {postLoading ? (
                             <p>Loading posts...</p>
                         ) : (
-                            <div className="space-y-4">
+                            <div className="space-y-4 overflow-y-scroll h-[60vh]">
                                 {recentPosts.map((post) => (
                                     <div
                                         key={post.post_id}
@@ -132,6 +148,26 @@ export default function Dashboard() {
                                 </p>
                             </div>
                         </div>
+                    </div>
+
+                    <div className="bg-white rounded-lg shadow p-6 mb-6">
+                        <h2 className="text-xl font-semibold mb-4">Hashtags</h2>
+                        {hashtagsLoading ? (
+                            <p>Loading hashtags...</p>
+                        ) : (
+                            <div className="space-y-4">
+                                {hashtags.map((post) => (
+                                    <div
+                                        key={post.post_id}
+                                        className="border-b pb-4"
+                                    >
+                                        <span className="text-lg text-gray-500">
+                                            #{post.hashtag}
+                                        </span>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
                     </div>
                 </div>
             </div>

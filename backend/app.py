@@ -154,7 +154,7 @@ def get_posts():
         query += "WHERE " + " AND ".join(where_clauses)
     
     query += '''
-    ORDER BY p.created_at DESC
+    ORDER BY p.collected_at DESC
     LIMIT %s
     '''
     params.append(limit)
