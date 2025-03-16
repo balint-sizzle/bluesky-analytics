@@ -53,13 +53,13 @@ export default function Dashboard() {
                                         <div className="flex items-center mb-2">
                                             {/* <img
                                                 src={
-                                                    post.avatar //||
-                                                    //"https://bsky.social/images/default-avatar.png"
+                                                    post.avatar ||
+                                                    "https://bsky.social/images/default-avatar.png"
                                                 }
                                                 alt={`${post.author_display_name}'s avatar`}
                                                 onError={(e) => {
-                                                    // e.target.src =
-                                                    //     "https://bsky.social/images/default-avatar.png";
+                                                    e.target.src =
+                                                        "https://bsky.social/images/default-avatar.png";
                                                     e.target.className =
                                                         "w-10 h-10 rounded-full bg-gray-200 mr-3";
                                                 }}
